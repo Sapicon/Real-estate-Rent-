@@ -1,0 +1,967 @@
+,Period,Price,Type,Location,Property Ref,Added On,Last Updated,Market Status,Bedrooms,Bathrooms,Toilets,   ,Servicing,Service Charge,Parking Spaces,Furnishing,Total Area,Covered Area
+0, per annum,"8,000,000", Terraced Duplex," Oniru, Victoria Island (VI), Lagos", 1243809, 02 Mar 2022, 11 Apr 2022, Available, 5, 5, 6, ,,,,,,
+1, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+2, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+3, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+4, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+5, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+6, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+7, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+8, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+9, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+10, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+11, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+12, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+13, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+14, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+15, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+16, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+17, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+18, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+19, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+20, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+21, per annum,"4,500,000", Terraced Duplex," Naf Valley Estate, Asokoro District, Abuja", 1296211, 21 Apr 2022, 04 May 2022, Available, 3, 3, 4, , Serviced," ₦800,000 per annum", 1, Furnished, 400 sqm, 280 sqm
+22, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+23, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+24, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+25, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+26, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+27, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+28, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+29, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+30, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+31, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+32, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+33, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+34, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+35, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+36, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+37, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+38, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+39, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+40, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+41, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+42, per day,"50,000", Conference / Meeting / Training Room," 21, Ogunnusi Road., Ogba, Ikeja, Lagos", 1220208, 07 Feb 2022, 07 Feb 2022, Available,,,,,,, 120,,,
+43, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+44, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+45, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+46, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+47, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+48, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+49, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+50, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+51, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+52, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+53, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+54, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+55, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+56, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+57, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+58, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+59, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+60, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+61, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+62, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+63, per day,"60,000", Conference / Meeting / Training Room," Kado, Abuja", 638818, 05 Jun 2020, 04 Mar 2022, Available,,,,,,, 10,,,
+64, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+65, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+66, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+67, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+68, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+69, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+70, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+71, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+72, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+73, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+74, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+75, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+76, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+77, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+78, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+79, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+80, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+81, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+82, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+83, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+84, per annum,"3,000,000", Office Space," Sokode Crescent, Zone 5, Wuse, Abuja", 638787, 05 Jun 2020, 27 Apr 2022, Available,,, 5, , Serviced," ₦240,000 per annum", 30, Furnished,,
+85, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+86, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+87, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+88, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+89, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+90, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+91, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+92, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+93, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+94, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+95, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+96, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+97, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+98, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+99, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+100, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+101, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+102, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+103, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+104, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+105, per annum,"3,000,000", Terraced Duplex," Amity Estate, Sangotedo, Ajah, Lagos", 979164, 17 Jun 2021, 04 May 2022, Available, 3, 3, 4,,,, 2,,,
+106, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+107, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+108, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+109, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+110, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+111, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+112, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+113, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+114, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+115, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+116, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+117, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+118, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+119, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+120, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+121, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+122, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+123, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+124, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+125, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+126, per day,"60,000", Conference / Meeting / Training Room," Kado, Abuja", 638818, 05 Jun 2020, 04 Mar 2022, Available,,,,,,, 10,,,
+127, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+128, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+129, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+130, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+131, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+132, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+133, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+134, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+135, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+136, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+137, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+138, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+139, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+140, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+141, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+142, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+143, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+144, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+145, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+146, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+147, per day,"60,000", Conference / Meeting / Training Room," Kado, Abuja", 638818, 05 Jun 2020, 04 Mar 2022, Available,,,,,,, 10,,,
+148, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+149, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+150, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+151, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+152, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+153, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+154, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+155, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+156, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+157, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+158, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+159, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+160, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+161, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+162, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+163, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+164, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+165, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+166, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+167, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+168, per annum,"8,000,000", Terraced Duplex," Oniru, Victoria Island (VI), Lagos", 1243809, 02 Mar 2022, 11 Apr 2022, Available, 5, 5, 6, ,,,,,,
+169, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+170, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+171, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+172, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+173, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+174, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+175, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+176, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+177, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+178, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+179, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+180, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+181, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+182, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+183, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+184, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+185, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+186, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+187, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+188, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+189, per annum,"3,000,000", Office Space," Sokode Crescent, Zone 5, Wuse, Abuja", 638787, 05 Jun 2020, 27 Apr 2022, Available,,, 5, , Serviced," ₦240,000 per annum", 30, Furnished,,
+190, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+191, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+192, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+193, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+194, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+195, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+196, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+197, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+198, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+199, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+200, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+201, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+202, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+203, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+204, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+205, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+206, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+207, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+208, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+209, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+210, per annum,"3,000,000", Office Space," Sokode Crescent, Zone 5, Wuse, Abuja", 638787, 05 Jun 2020, 27 Apr 2022, Available,,, 5, , Serviced," ₦240,000 per annum", 30, Furnished,,
+211, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+212, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+213, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+214, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+215, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+216, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+217, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+218, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+219, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+220, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+221, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+222, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+223, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+224, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+225, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+226, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+227, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+228, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+229, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+230, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+231, per annum,"3,000,000", Office Space," Sokode Crescent, Zone 5, Wuse, Abuja", 638787, 05 Jun 2020, 27 Apr 2022, Available,,, 5, , Serviced," ₦240,000 per annum", 30, Furnished,,
+232, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+233, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+234, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+235, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+236, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+237, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+238, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+239, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+240, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+241, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+242, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+243, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+244, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+245, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+246, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+247, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+248, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+249, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+250, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+251, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+252, per day,"60,000", Conference / Meeting / Training Room," Kado, Abuja", 638818, 05 Jun 2020, 04 Mar 2022, Available,,,,,,, 10,,,
+253, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+254, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+255, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+256, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+257, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+258, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+259, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+260, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+261, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+262, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+263, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+264, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+265, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+266, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+267, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+268, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+269, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+270, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+271, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+272, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+273, per annum,"6,000,000", Flat / Apartment," Dideolu Estate, Off Ligali Ayorinde, Victoria Island (VI), Lagos", 838601, 22 Jan 2021, 05 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,,,
+274, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+275, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+276, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+277, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+278, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+279, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+280, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+281, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+282, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+283, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+284, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+285, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+286, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+287, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+288, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+289, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+290, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+291, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+292, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+293, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+294, per day,"50,000", Conference / Meeting / Training Room," 21, Ogunnusi Road., Ogba, Ikeja, Lagos", 1220208, 07 Feb 2022, 07 Feb 2022, Available,,,,,,, 120,,,
+295, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+296, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+297, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+298, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+299, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+300, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+301, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+302, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+303, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+304, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+305, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+306, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+307, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+308, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+309, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+310, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+311, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+312, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+313, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+314, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+315, per annum,"8,000,000", Terraced Duplex," Oniru, Victoria Island (VI), Lagos", 1243809, 02 Mar 2022, 11 Apr 2022, Available, 5, 5, 6, ,,,,,,
+316, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+317, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+318, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+319, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+320, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+321, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+322, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+323, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+324, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+325, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+326, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+327, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+328, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+329, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+330, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+331, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+332, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+333, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+334, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+335, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+336, per annum,"8,000,000", Terraced Duplex," Oniru, Victoria Island (VI), Lagos", 1243809, 02 Mar 2022, 11 Apr 2022, Available, 5, 5, 6, ,,,,,,
+337, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+338, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+339, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+340, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+341, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+342, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+343, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+344, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+345, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+346, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+347, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+348, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+349, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+350, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+351, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+352, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+353, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+354, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+355, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+356, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+357, per annum,"6,000,000", Flat / Apartment," Dideolu Estate, Off Ligali Ayorinde, Victoria Island (VI), Lagos", 838601, 22 Jan 2021, 05 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,,,
+358, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+359, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+360, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+361, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+362, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+363, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+364, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+365, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+366, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+367, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+368, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+369, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+370, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+371, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+372, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+373, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+374, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+375, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+376, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+377, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+378, per annum,"6,000,000", Flat / Apartment," Dideolu Estate, Off Ligali Ayorinde, Victoria Island (VI), Lagos", 838601, 22 Jan 2021, 05 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,,,
+379, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+380, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+381, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+382, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+383, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+384, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+385, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+386, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+387, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+388, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+389, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+390, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+391, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+392, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+393, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+394, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+395, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+396, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+397, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+398, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+399, per annum,"3,000,000", Office Space," Sokode Crescent, Zone 5, Wuse, Abuja", 638787, 05 Jun 2020, 27 Apr 2022, Available,,, 5, , Serviced," ₦240,000 per annum", 30, Furnished,,
+400, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+401, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+402, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+403, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+404, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+405, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+406, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+407, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+408, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+409, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+410, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+411, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+412, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+413, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+414, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+415, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+416, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+417, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+418, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+419, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+420, per annum,"8,000,000", Terraced Duplex," Oniru, Victoria Island (VI), Lagos", 1243809, 02 Mar 2022, 11 Apr 2022, Available, 5, 5, 6, ,,,,,,
+421, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+422, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+423, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+424, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+425, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+426, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+427, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+428, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+429, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+430, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+431, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+432, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+433, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+434, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+435, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+436, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+437, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+438, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+439, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+440, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+441, per annum,"6,000,000", Flat / Apartment," Dideolu Estate, Off Ligali Ayorinde, Victoria Island (VI), Lagos", 838601, 22 Jan 2021, 05 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,,,
+442, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+443, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+444, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+445, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+446, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+447, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+448, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+449, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+450, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+451, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+452, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+453, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+454, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+455, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+456, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+457, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+458, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+459, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+460, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+461, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+462, per annum,"3,000,000", Terraced Duplex," Amity Estate, Sangotedo, Ajah, Lagos", 979164, 17 Jun 2021, 04 May 2022, Available, 3, 3, 4,,,, 2,,,
+463, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+464, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+465, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+466, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+467, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+468, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+469, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+470, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+471, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+472, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+473, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+474, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+475, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+476, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+477, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+478, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+479, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+480, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+481, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+482, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+483, per annum,"3,000,000", Terraced Duplex," Amity Estate, Sangotedo, Ajah, Lagos", 979164, 17 Jun 2021, 04 May 2022, Available, 3, 3, 4,,,, 2,,,
+484, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+485, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+486, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+487, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+488, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+489, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+490, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+491, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+492, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+493, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+494, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+495, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+496, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+497, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+498, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+499, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+500, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+501, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+502, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+503, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+504, per day,"60,000", Conference / Meeting / Training Room," Kado, Abuja", 638818, 05 Jun 2020, 04 Mar 2022, Available,,,,,,, 10,,,
+505, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+506, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+507, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+508, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+509, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+510, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+511, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+512, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+513, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+514, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+515, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+516, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+517, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+518, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+519, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+520, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+521, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+522, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+523, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+524, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+525, per annum,"6,000,000", Flat / Apartment," Dideolu Estate, Off Ligali Ayorinde, Victoria Island (VI), Lagos", 838601, 22 Jan 2021, 05 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,,,
+526, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+527, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+528, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+529, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+530, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+531, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+532, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+533, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+534, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+535, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+536, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+537, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+538, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+539, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+540, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+541, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+542, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+543, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+544, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+545, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+546, per annum,"8,000,000", Terraced Duplex," Oniru, Victoria Island (VI), Lagos", 1243809, 02 Mar 2022, 11 Apr 2022, Available, 5, 5, 6, ,,,,,,
+547, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+548, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+549, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+550, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+551, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+552, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+553, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+554, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+555, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+556, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+557, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+558, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+559, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+560, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+561, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+562, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+563, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+564, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+565, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+566, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+567, per annum,"3,000,000", Terraced Duplex," Amity Estate, Sangotedo, Ajah, Lagos", 979164, 17 Jun 2021, 04 May 2022, Available, 3, 3, 4,,,, 2,,,
+568, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+569, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+570, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+571, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+572, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+573, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+574, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+575, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+576, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+577, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+578, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+579, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+580, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+581, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+582, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+583, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+584, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+585, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+586, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+587, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+588, per annum,"3,000,000", Office Space," Sokode Crescent, Zone 5, Wuse, Abuja", 638787, 05 Jun 2020, 27 Apr 2022, Available,,, 5, , Serviced," ₦240,000 per annum", 30, Furnished,,
+589, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+590, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+591, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+592, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+593, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+594, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+595, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+596, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+597, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+598, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+599, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+600, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+601, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+602, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+603, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+604, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+605, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+606, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+607, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+608, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+609, per annum,"6,000,000", Flat / Apartment," Dideolu Estate, Off Ligali Ayorinde, Victoria Island (VI), Lagos", 838601, 22 Jan 2021, 05 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,,,
+610, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+611, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+612, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+613, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+614, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+615, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+616, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+617, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+618, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+619, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+620, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+621, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+622, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+623, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+624, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+625, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+626, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+627, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+628, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+629, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+630, per annum,"8,000,000", Terraced Duplex," Oniru, Victoria Island (VI), Lagos", 1243809, 02 Mar 2022, 11 Apr 2022, Available, 5, 5, 6, ,,,,,,
+631, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+632, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+633, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+634, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+635, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+636, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+637, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+638, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+639, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+640, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+641, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+642, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+643, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+644, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+645, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+646, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+647, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+648, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+649, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+650, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+651, per day,"60,000", Conference / Meeting / Training Room," Kado, Abuja", 638818, 05 Jun 2020, 04 Mar 2022, Available,,,,,,, 10,,,
+652, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+653, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+654, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+655, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+656, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+657, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+658, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+659, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+660, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+661, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+662, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+663, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+664, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+665, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+666, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+667, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+668, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+669, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+670, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+671, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+672, per annum,"4,500,000", Terraced Duplex," Naf Valley Estate, Asokoro District, Abuja", 1296211, 21 Apr 2022, 04 May 2022, Available, 3, 3, 4, , Serviced," ₦800,000 per annum", 1, Furnished, 400 sqm, 280 sqm
+673, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+674, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+675, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+676, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+677, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+678, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+679, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+680, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+681, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+682, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+683, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+684, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+685, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+686, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+687, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+688, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+689, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+690, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+691, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+692, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+693, per annum,"8,000,000", Terraced Duplex," Oniru, Victoria Island (VI), Lagos", 1243809, 02 Mar 2022, 11 Apr 2022, Available, 5, 5, 6, ,,,,,,
+694, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+695, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+696, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+697, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+698, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+699, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+700, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+701, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+702, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+703, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+704, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+705, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+706, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+707, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+708, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+709, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+710, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+711, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+712, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+713, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+714, per day,"60,000", Conference / Meeting / Training Room," Kado, Abuja", 638818, 05 Jun 2020, 04 Mar 2022, Available,,,,,,, 10,,,
+715, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+716, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+717, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+718, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+719, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+720, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+721, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+722, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+723, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+724, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+725, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+726, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+727, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+728, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+729, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+730, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+731, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+732, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+733, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+734, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+735, per day,"60,000", Conference / Meeting / Training Room," Kado, Abuja", 638818, 05 Jun 2020, 04 Mar 2022, Available,,,,,,, 10,,,
+736, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+737, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+738, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+739, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+740, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+741, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+742, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+743, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+744, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+745, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+746, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+747, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+748, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+749, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+750, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+751, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+752, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+753, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+754, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+755, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+756, per annum,"3,000,000", Office Space," Sokode Crescent, Zone 5, Wuse, Abuja", 638787, 05 Jun 2020, 27 Apr 2022, Available,,, 5, , Serviced," ₦240,000 per annum", 30, Furnished,,
+757, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+758, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+759, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+760, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+761, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+762, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+763, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+764, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+765, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+766, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+767, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+768, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+769, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+770, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+771, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+772, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+773, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+774, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+775, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+776, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+777, per annum,"3,000,000", Office Space," Sokode Crescent, Zone 5, Wuse, Abuja", 638787, 05 Jun 2020, 27 Apr 2022, Available,,, 5, , Serviced," ₦240,000 per annum", 30, Furnished,,
+778, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+779, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+780, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+781, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+782, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+783, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+784, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+785, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+786, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+787, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+788, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+789, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+790, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+791, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+792, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+793, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+794, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+795, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+796, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+797, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+798, per annum,"6,000,000", Flat / Apartment," Dideolu Estate, Off Ligali Ayorinde, Victoria Island (VI), Lagos", 838601, 22 Jan 2021, 05 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,,,
+799, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+800, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+801, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+802, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+803, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+804, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+805, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+806, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+807, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+808, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+809, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+810, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+811, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+812, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+813, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+814, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+815, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+816, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+817, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+818, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+819, per annum,"3,000,000", Terraced Duplex," Amity Estate, Sangotedo, Ajah, Lagos", 979164, 17 Jun 2021, 04 May 2022, Available, 3, 3, 4,,,, 2,,,
+820, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+821, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+822, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+823, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+824, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+825, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+826, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+827, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+828, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+829, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+830, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+831, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+832, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+833, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+834, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+835, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+836, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+837, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+838, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+839, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+840, per annum,"6,000,000", Flat / Apartment," Dideolu Estate, Off Ligali Ayorinde, Victoria Island (VI), Lagos", 838601, 22 Jan 2021, 05 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,,,
+841, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+842, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+843, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+844, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+845, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+846, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+847, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+848, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+849, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+850, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+851, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+852, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+853, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+854, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+855, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+856, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+857, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+858, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+859, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+860, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+861, per annum,"4,500,000", Terraced Duplex," Naf Valley Estate, Asokoro District, Abuja", 1296211, 21 Apr 2022, 04 May 2022, Available, 3, 3, 4, , Serviced," ₦800,000 per annum", 1, Furnished, 400 sqm, 280 sqm
+862, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+863, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+864, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+865, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+866, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+867, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+868, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+869, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+870, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+871, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+872, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+873, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+874, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+875, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+876, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+877, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+878, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+879, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+880, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+881, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+882, per annum,"3,000,000", Terraced Duplex," Amity Estate, Sangotedo, Ajah, Lagos", 979164, 17 Jun 2021, 04 May 2022, Available, 3, 3, 4,,,, 2,,,
+883, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+884, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+885, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+886, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+887, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+888, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+889, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+890, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+891, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+892, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+893, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+894, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+895, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+896, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+897, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+898, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+899, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+900, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+901, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+902, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+903, per annum,"6,000,000", Flat / Apartment," Dideolu Estate, Off Ligali Ayorinde, Victoria Island (VI), Lagos", 838601, 22 Jan 2021, 05 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,,,
+904, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+905, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+906, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+907, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+908, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+909, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+910, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+911, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+912, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+913, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+914, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+915, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+916, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+917, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+918, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+919, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+920, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+921, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+922, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+923, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+924, per day,"50,000", Conference / Meeting / Training Room," 21, Ogunnusi Road., Ogba, Ikeja, Lagos", 1220208, 07 Feb 2022, 07 Feb 2022, Available,,,,,,, 120,,,
+925, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+926, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+927, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+928, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+929, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+930, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+931, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+932, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+933, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+934, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+935, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+936, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+937, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+938, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+939, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+940, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+941, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+942, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+943, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+944, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
+945, per annum,"4,500,000", Terraced Duplex," Naf Valley Estate, Asokoro District, Abuja", 1296211, 21 Apr 2022, 04 May 2022, Available, 3, 3, 4, , Serviced," ₦800,000 per annum", 1, Furnished, 400 sqm, 280 sqm
+946, per annum,"1,750,000", Flat / Apartment," Ajah, Lagos", 1312319, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦650,000 per annum",,,,
+947, per annum,"12,000,000", Terraced Duplex," Old Ikoyi, Ikoyi, Lagos", 1307756, 03 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 5,,,
+948, per annum,"400,000", Mini Flat (Room and Parlour)," Abijo, Victory Villa Estate, Ajah, Lagos", 1312415, 07 May 2022, 07 May 2022, Available, 1, 1, 2, ,,, 1, Furnished,,
+949, per annum,"450,000", Mini Flat (Room and Parlour)," Destiny Homes Estate, Abijo, Lekki, Lagos", 1312408, 07 May 2022, 07 May 2022, Available, 1,,,,,,,,,
+950, per annum,"5,500,000", Semi-detached Duplex," Orchid, Lekki, Lagos", 1312402, 07 May 2022, 07 May 2022, Available, 4, 4, 5,,,, 6,,,
+951, per annum,"3,000,000", Semi-detached Duplex," Greenland, Olokonla, Ajah, Lagos", 1277970, 02 Apr 2022, 07 May 2022, Available, 4, 4, 5,,,, 2,,,
+952, per annum,"6,000,000", Flat / Apartment," Off Eko Street, Parkview, Ikoyi, Lagos", 1312335, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦3,000,000 ",,,,
+953, per annum,"2,700,000", Flat / Apartment," Lekki Right, Lekki Phase 1, Lekki, Lagos", 1312387, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦80,000 per month", 2,, 180 sqm, 190 sqm
+954, per annum,"4,000,000", Terraced Duplex," Spring Garden, Sangotedo, Ajah, Lagos", 1306871, 02 May 2022, 07 May 2022, Available, 4, 4, 5, , Serviced,, 5,,,
+955, per annum,"500,000", Flat / Apartment," Magboro Area, Magboro, Ogun", 1312377, 07 May 2022, 07 May 2022, Available, 2, 3, 3, ,,, 3,, 400 sqm, 400 sqm
+956, per annum,"7,000,000", Flat / Apartment," Osborne Phase 1, Ikoyi, Lagos", 1312371, 07 May 2022, 07 May 2022, Available, 3, 3, 4, , Serviced," ₦2,500,000 per annum", 2,, 300 sqm, 300 sqm
+957, per annum,"1,200,000", Flat / Apartment," Newly Built Executive 2bedroom Flat At Alapere Ketu, Alapere, Ketu, Lagos", 1312373, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+958, per annum,"2,000,000", Flat / Apartment," Sangotedo, Ajah, Lagos", 1312370, 07 May 2022, 07 May 2022, Available, 3, 3, 4,,,, 3,,,
+959, per annum,"1,500,000", Flat / Apartment," Ikota, Lekki, Lagos", 1312180, 07 May 2022, 07 May 2022, Available, 2,,,,,,,,,
+960, per annum,"6,000,000", Terraced Duplex," Spar Road, Lekki, Lagos", 1307886, 03 May 2022, 03 May 2022, Available, 3, 3, 4, , Serviced,, 2, Furnished,,
+961, per annum,"1,750,000", Flat / Apartment," Life Camp, Abuja", 1312356, 07 May 2022, 07 May 2022, Available, 2, 2, 3, , Serviced," ₦1,000,000 per annum", 2,,,
+962, per annum,"4,000,000", Terraced Duplex," Nicon Town, Lekki, Lagos", 1282280, 06 Apr 2022, 07 May 2022, Available, 4, 4, 5, , Serviced," ₦65,000 per month", 3,," 3,500 sqm", 400 sqm
+963, per annum,"1,300,000", Flat / Apartment," Seaside Estate, Badore, Ajah, Lagos", 1312328, 07 May 2022, 07 May 2022, Available, 2, 2, 3,,,,, Furnished,,
+964, per annum,"3,000,000", Flat / Apartment," Lekki, Lekki Phase 1, Lekki, Lagos", 1311969, 06 May 2022, 06 May 2022, Available, 1, 1, 2, ,,, 1,, 150 sqm, 100 sqm
+965, per annum,"2,200,000", Mini Flat (Room and Parlour)," Off Freedom Way, Lekki Phase 1, Lekki, Lagos", 1312322, 07 May 2022, 07 May 2022, Available, 1, 2, 2,,,, 1,,,
